@@ -10,6 +10,7 @@ int main(){
 	first();
 	second();
 	second();
+	return 0;
 }
 
 void first(){
