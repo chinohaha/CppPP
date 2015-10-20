@@ -12,6 +12,7 @@ int main(){
 	cout << "Enter the number of minuts: ";
 	cin >> min;
 	displayTime(hr,min);
+	return 0;
 }
 
 void displayTime(string h,string m){
